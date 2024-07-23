@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ABOUT BEAUTIFIRE</title>
+<body bgcolor="black">
+<H1 style="color:lightgreen;">INTRODUCTION TO BEAUTIFIRE</H1>
+<P STYLE="COLOR:LIGHTBLUE;">Beautifire is an application where you can send a picture of yourself to the beautifire agent to beautify and get it in two days. first time is free after the first time then N500 per picture.</p>
+<h2 style="COLOR:YELLOW;">MAXIMUM PRICE: N1500</h2>
+<h2 style="COLOR:YELLOW;">MINIMUM PRICE: N500</h2>
+<h2 style="COLOR:GREEN;">ACCOUNT DETAILS:7046959395(PALMPAY)</h2>
+<h2 style="COLOR:GREEN;">NAME: MITCHEL</h2>
+<h2 style="COLOR:GREEN;">TRY IT NOW AND SEE A BEAUTIFUL AND HANDSOME PIC OF YOURSELF</h2>
+<h2 style="COLOR:GREEN;">FIRST TRIAL IS FREE</h2>
+<h2 style="COLOR:GREEN;">THE NEW OLINE ART MUSEUM IS COMING SOON!!!!!!</h2>
+<h2 style="COLOR:GREEN;">THANK YOU</h2>
+</head>
+</body>
+</html>
+

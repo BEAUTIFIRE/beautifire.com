@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CONTACT BEAUTIFIRE</title>
+<body bgcolor="black">
+<h1 style="COLOR:GREEN;">HOW TO CONTACT US</h2>
+<h2 style="COLOR:GREEN;">EMAIL: BEAUTIFIRE60@GMAIL.COM</h2>
+<h2 style="COLOR:GREEN;">FACEBOOK PAGE: mitchel asuzu (beautifire creator/agents)</h2>
+<h2 style="COLOR:GREEN;">OR CLICK THE LINKS BELOW</h2>
+<A
+HREF="https://www.gmail.com/">GMAIL CONTACT</A>
+<A
+HREF="https://WWW.FACEBOOK.COM/">FACEBOOK CONTACT</A>
+<A
+href="https://www.youtube.com/">youtube page</a>
+</head>
+</body>
+</html>
